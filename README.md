@@ -1,3 +1,8 @@
+Current Meetup!!!
+=========
+
+http://www.meetup.com/Philadelphia-JavaScript-Developers/events/216267132/
+
 BeerJS PHL
 =========
 
